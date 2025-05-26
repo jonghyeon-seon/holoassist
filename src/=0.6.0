@@ -1,0 +1,10 @@
+Requirement already satisfied: einops in /home/jhseon/anaconda3/envs/mnm/lib/python3.11/site-packages (0.4.1)
+Collecting einops
+  Using cached einops-0.8.1-py3-none-any.whl.metadata (13 kB)
+Using cached einops-0.8.1-py3-none-any.whl (64 kB)
+Installing collected packages: einops
+  Attempting uninstall: einops
+    Found existing installation: einops 0.4.1
+    Uninstalling einops-0.4.1:
+      Successfully uninstalled einops-0.4.1
+Successfully installed einops-0.8.1
